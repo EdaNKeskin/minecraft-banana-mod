@@ -1,0 +1,13 @@
+{
+  "textures": {
+    "skin": "textures/entity/player/Randoe.png",
+    "slim": true
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [ -90, 0, 0 ],
+      "translation": [ 0, 2.5, -0.5 ],
+      "scale": [ 0.55, 0.55, 0.55 ]
+    }
+  }
+}

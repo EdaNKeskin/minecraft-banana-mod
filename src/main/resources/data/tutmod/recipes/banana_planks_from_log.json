@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    [
+      {
+        "item": "tutmod:banana_log"
+      },
+      {
+        "item": "tutmod:stripped_banana_log"
+      }
+    ]
+  ],
+  "result": {
+    "item": "tutmod:banana_plank",
+    "count": 4
+  }
+}

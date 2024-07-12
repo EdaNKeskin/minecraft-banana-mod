@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "side": "tutmod:block/stripped_banana_log",
+    "end": "tutmod:block/stripped_banana_log_top"
+  }
+}
