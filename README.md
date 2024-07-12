@@ -4,3 +4,6 @@ Issues:
 - Banana logs always face up, despite direction it was placed in
 - Creative mode tab for this mod doesn't work (commented out in code)
 - Wood and bananas are unobtainable outside of creative mode
+
+Credits:
+Banana and golden banana textures from: "Apple to Banana" resource pack by theextremeborger
